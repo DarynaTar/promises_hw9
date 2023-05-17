@@ -1,21 +1,21 @@
 {
-  "name": "hw9-promises",
+  "name": "promises_hw9",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DarynaTar.github.io/hw9-promises",
+  "homepage": "https://DarynaTar.github.io/promises_hw9",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hw9-promises/"
+    "build": "parcel build src/*.html --public-url /promises_hw9/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarynaTar/hw9-promises.git"
+    "url": "git+https://github.com/DarynaTar/promises_hw9.git"
   },
   "keywords": [],
   "author": "Daryna <Darisha0193@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DarynaTar/hw9-promises/issues"
+    "url": "https://github.com/DarynaTar/promises_hw9s/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
