@@ -13,6 +13,7 @@ startBtn.addEventListener('click', ()=>{
     stopBtn.disabled = false
         document.body.style.backgroundColor = getRandomHexColor()
     }, 1000)
+    console.log(getRandomHexColor())
 })
 
 stopBtn.addEventListener('click', ()=>{
